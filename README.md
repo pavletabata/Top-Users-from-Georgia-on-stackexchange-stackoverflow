@@ -1,6 +1,6 @@
 # Top Users from Georgia (on Stackexchange & Stackoverflow)
 
-📌 top-users-list-from-georgia?results
+📌 [Live results](https://data.stackexchange.com/stackoverflow/query/1012928/top-users-list-from-georgia)
 
 To see your ranking & the list, click <kbd>Run Query</kbd> in the bottom of that page.
 
